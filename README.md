@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kazuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MaxZisan" height="30" width="40" /></a>
+<a href="[https://twitter.com/kazuha](https://twitter.com/MaxZisan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MaxZisan" height="30" width="40" /></a>
 <a href="https://fb.com/shu vo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shu vo" height="30" width="40" /></a>
 <a href="https://instagram.com/srshu.vo71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srshu.vo71" height="30" width="40" /></a>
 </p>
